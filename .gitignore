@@ -1,0 +1,28 @@
+# Virtual environment files
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Python cache files
+*.pyo
+*.pyd
+*.pdb
+
+# FAISS index files
+vector_store.index
+
+# Environment and configuration files
+.env
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# IDE-specific files (optional)
+.idea/
+.vscode/
+*.iml
