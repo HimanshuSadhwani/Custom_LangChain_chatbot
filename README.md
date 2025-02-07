@@ -14,7 +14,7 @@ This project is a Flask-based chatbot powered by LangChain, FAISS, and OpenAI. I
 - Clone this repository:
   ```bash
   git clone https://github.com/HimanshuSadhwani/Custom_LangChain_chatbot.git
-  cd custom-lc-chatbot
+  cd Custom_LangChain_chatbot
 
 Installation
 Create a virtual environment and activate it:
