@@ -13,7 +13,7 @@ This project is a Flask-based chatbot powered by LangChain, FAISS, and OpenAI. I
 - OpenAI API Key (Sign up at [OpenAI](https://platform.openai.com/))
 - Clone this repository:
   ```bash
-  git clone https://github.com/HimanshuSadhwani/custom-lc-chatbot.git
+  git clone https://github.com/HimanshuSadhwani/Custom_LangChain_chatbot.git
   cd custom-lc-chatbot
 
 Installation
